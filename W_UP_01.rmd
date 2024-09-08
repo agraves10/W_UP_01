@@ -71,4 +71,4 @@ I can tell from the graph that skill is significantly higher The median of line 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
 
-I graphed the the differences between line and skill and put them in box plots. Seeing thatline  is lower than skill then, i looked at the numerical results between the quarters of my first box plot and saw that skill was higher than line. i ran statistical test and found the probability is low skill is a factor in haw many pushups are done 
+I graphed the the differences between line and skill and put them in box plots. Seeing thatline  is lower than skill then, i looked at the numerical results between the quarters of my first box plot and saw that skill was higher than line. i ran statistical test and found the probability is low skill is a factor in haw many pushups are done 3*3
