@@ -56,7 +56,7 @@ when looking at  the boxplot the bottom quartile for skill box is higher third q
 favstats(pushups~position,data=mydata)
 ```
 
-I can tell from the graph that skill is significantly higher The median of line  is lower than skill by 21 .The box representing skill is higher than line. **+-
+I can tell from the graph that skill is significantly higher The median of line  is lower than skill by 21 .The box representing skill is higher than line. 
 
 
 
@@ -66,9 +66,12 @@ I can tell from the graph that skill is significantly higher The median of line 
 <!--State hypothesis clearly. Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc. Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
 
 
+The likely-hood of getting this result is the number .ooooooo340.c52 has more vitc than the c39 the probablility that nothing is going on is low which means somethig is going on.  
+
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
 
-I graphed the the differences between line and skill and put them in box plots. Seeing thatline  is lower than skill then, i looked at the numerical results between the quarters of my first box plot and saw that skill was higher than line. i ran statistical test and found the probability is low skill is a factor in haw many pushups are done 3*3
+I graphed the the differences between line and skill and put them in box plots. Seeing thatline  is lower than skill then, i looked at the numerical results between the quarters of my first box plot and saw that skill was higher than line. i ran statistical test and found the probability is low skill is a factor in haw many pushups are done.
